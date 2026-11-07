@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "XYBench",
+  "versions": [
+    {
+      "commit": "e39eb25aec2a5fc7c69366a366e0714bba5abfe2",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:14:57.368533+00:00"
+    }
+  ]
+}

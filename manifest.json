@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "allenai",
+  "repo": "XYBench",
+  "versions": [
+    {
+      "commit": "e39eb25aec2a5fc7c69366a366e0714bba5abfe2",
+      "parsed_at": "2026-11-07T18:12:31.219592+00:00",
+      "filetree": "filetree/e39eb25aec2a5fc7c69366a366e0714bba5abfe2.nq.gz",
+      "blobs": [
+        "blob/0053b76797ea0440f6cd80418f51eca7220aa7a7.nq.gz",
+        "blob/af53a86e6501bee2f031d9500c5d6a733fef7ca5.nq.gz",
+        "blob/2a36e601a0f0c1a86847a8212947cab23f98ed84.nq.gz",
+        "blob/1d74195003e4f7be0c79e5e0946506ad9fa15ddf.nq.gz",
+        "blob/bc7df565111d8c326164cc42d4ed7b59a3a9507b.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/2d0aec08d6c5a254486c1a1b36f503bec67a27b0.nq.gz",
+        "blob/d3d62b2ff7f50f0d755d0b3750c3126adf6dd877.nq.gz",
+        "blob/6bf078c39f0d0e3560f2d34676d35d47de1da068.nq.gz",
+        "blob/a5b27cfcfa81bc1d5ddb8306dde6e088004c947d.nq.gz",
+        "blob/acaa59e2ac8200f3285c598eb52d0db264e601ec.nq.gz",
+        "blob/ced7a1eaed2251ffd5ced925039a1af7d6543491.nq.gz",
+        "blob/c3dc218719ba2ba3a1472bbfb8c42de638a569f3.nq.gz",
+        "blob/af416eba59b5fe98c2799a84f1da9ccf32bad06f.nq.gz",
+        "blob/6945088ee98f930af080fb3b3700694e2acf7302.nq.gz",
+        "blob/5626d56ad2dabf7947e6e1a7639890cf3715974f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/XYBench/commit/e39eb25aec2a5fc7c69366a366e0714bba5abfe2",
       "git:hexsha": "e39eb25aec2a5fc7c69366a366e0714bba5abfe2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
